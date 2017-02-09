@@ -26,17 +26,17 @@ To run any of the scripts:
 Clone or fork this repo:
 
 ```
-https://github.com/CharleyMcLean/fibonacci-fizzbuzz.git
+https://github.com/CharleyMcLean/morning-cup-o-code.git
 ```
 
 To run interactively, type the following in the terminal (this will also run the doctests):
 
 ```
-python -i fibonacci.py
+python -i *insert_file_name*.py
 ```
 
-To run the unittests, type the following in the terminal:
+To run the unittests (if available), type the following in the terminal:
 
 ```
-python tests.py
+python *insert_test_file_name*.py
 ```
