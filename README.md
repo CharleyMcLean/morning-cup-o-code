@@ -1,17 +1,11 @@
-# Finonacci FizzBuzz
+# Morning Cup-o-Code
 
-Write a program generating the first `n` Fibonacci numbers `F(n)`, printing
-
-* `'Buzz'` when `F(n)` is divisible by 3.
-* `'Fizz'` when `F(n)` is divisible by 5.
-* `'FizzBuzz'` when `F(n)` is divisible by 15.
-* `'BuzzFizz'` when `F(n)` is prime.
-* The value `F(n)` otherwise.
-
+This repo is for my morning cup-o-code - starting each day thinking codefully.  Namaste.
 
 
 ##Contents
 * [Technologies](#technologies)
+* [Sources](#sources)
 * [Installation](#install)
 
 ## <a name="technologies"></a>Technologies
@@ -19,9 +13,15 @@ Write a program generating the first `n` Fibonacci numbers `F(n)`, printing
 Tech Stack: Python<br/>
 
 
+## <a name="sources"></a>Sources
+* Cracking the Coding Interview
+* Hackbright Code Challenges
+* More likely to be added...
+
+
 ## <a name="install"></a>Installation
 
-To run Fibonacci FizzBuzz:
+To run any of the scripts:
 
 Clone or fork this repo:
 
