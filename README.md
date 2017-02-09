@@ -1,6 +1,6 @@
 # Morning Cup-o-Code
 
-This repo is for my morning cup-o-code - starting each day thinking codefully.  Namaste.
+This repo is for my morning cup-o-code - starting each day thinking codefully.  Namaste :pray:
 
 
 ##Contents
